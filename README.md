@@ -114,7 +114,7 @@ Plots demonstrating model predictions vs. actual yields are available in the not
 
 ## Project Report
 
-A detailed report outlining the project background, literature review, methodology, experiments, and conclusions is available at `report/XAI_REPORT.docx` fileciteturn0file0.
+A detailed report outlining the project background, literature review, methodology, experiments, and conclusions is available at `report/XAI_REPORT.docx` 
 
 ---
 
