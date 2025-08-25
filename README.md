@@ -31,8 +31,8 @@ Accurate crop yield forecasting is critical for food security, pricing policy, a
 ├── data/                   # Raw and processed time-series datasets
 ├──LSTM_ARIMA.ipynb         # End-to-end hybrid model implementation
 ├── XAI_REPORT.docx         # Detailed project report 
-├── requirements.txt        # Python dependencies
-└── README.md               # Project overview and instructions
+├── README.md               # Project overview and instructions
+└── requirements.txt        # Python dependencies
 ```
 
 ---
