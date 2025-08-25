@@ -1,7 +1,7 @@
 # Hybrid-ARIMA-LSTM-Crop-Yield-Forecasting
 Time-series model: ARIMA trends + LSTM residuals for crop yield
 
-This repository contains the code, data, and documentation for a hybrid time-series forecasting model that combines ARIMA and LSTM to predict agricultural crop yields. The project was developed as part of the Department of Computer Science and Engineering (Artificial Intelligence and Machine Learning) at Dayananda Sagar University. fileciteturn0file0
+This repository contains the code, data, and documentation for a hybrid time-series forecasting model that combines ARIMA and LSTM to predict agricultural crop yields. The project was developed as part of the Department of Computer Science and Engineering (Artificial Intelligence and Machine Learning) at Dayananda Sagar University. 
 
 ---
 
